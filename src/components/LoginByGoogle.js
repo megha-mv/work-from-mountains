@@ -11,7 +11,7 @@ export default class LoginByGoogle extends Component {
     render() {
         return (
             <div>
-                <GoogleLogin
+                <GoogleLogin 
                 clientId="785414717726-bihb15vgpmt413jp4rdc1o43url2h07g.apps.googleusercontent.com"
                 buttonText="Google"
                 onSuccess={this.responseGoogle}
