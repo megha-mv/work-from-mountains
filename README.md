@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Work From Mountains 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a Property Booking website for people who wants to work from mountains and long stay. This project aim to create a Property booking system which is used by users/Customers to search and book best properties and work from there. Focus mainly on properties in mountains. User can see different services offered by different properties. Display result according to user search.
 
-## Available Scripts
+# Available Pages:
 
-In the project directory, you can run:
+1. Main Landing Page
 
-### `npm start`
+2. Properties List page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3. Single Property Detail page
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+4. Booking page
 
-### `npm test`
+5. Login-signUp Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+6. User Profile Page
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Table of Content
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. [Demo](#demo)
+2. [Installation](#installation)
+3. [Technology Stack](#technology-stack)
+4. [Authors](#authors)
 
-### `npm run eject`
+<br/>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Demo
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[Live Demo](https://work-from-mountains.netlify.app/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br/>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Please Note:
 
-## Learn More
+1. We recommend using this app in Google Chrome
+2. Use the app on Laptop/desktop/Mobile Phone only as of now.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Installation
 
-### Code Splitting
+- Fork or directly clone this repository to your local machine
+- Use the `npm` command to install dependencies
+- Once the dependencies are finished installing, use the `npm start` command inside the root directory to open the app in your local browser of choice
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br/>
 
-### Analyzing the Bundle Size
+# Technology Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+We tried to use a completely modern tech stack while testing out some new technologies that we had never used before. This resulted in a fast, performant, and easily-extensible web app that should be fairly future-proof for the coming next several years. We used:
 
-### Making a Progressive Web App
+* [React.js](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [React-icons](https://react-icons.github.io/react-icons/)
+* [Netlify](https://app.netlify.com/sites/work-from-mountains/overview)
+* [Sentry](https://sentry.io/)
+* [contentful](https://www.contentful.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br/>
 
-### Advanced Configuration
+## Authors
+- [@Megha vashist](https://github.com/pesto-students/wfm-frontend-f2-beta/tree/devcont)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br/>
